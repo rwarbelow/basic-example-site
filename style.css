@@ -1,0 +1,27 @@
+header {
+  height: 100px;
+  background: firebrick;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+  font-family: sans-serif;
+}
+
+img {
+  float: left;
+  height: 100px;
+}
+
+main {
+  background: grey;
+  height: 150px;
+}
+
+section {
+  clear: both;
+  background: paleturquoise;
+}
+
+a {
+  color: green;
+}
